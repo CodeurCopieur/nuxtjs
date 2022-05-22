@@ -1,0 +1,9 @@
+* {
+  background-color: #2BE297;
+  font-family: sans-serif;
+  color: #fff;
+}
+
+a.nuxt-link-exact-active {
+  color: crimson;
+} 
